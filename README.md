@@ -1,2 +1,2 @@
 # OpsWorksPlayground
-Simple Node.js Hello world app for AppsWorks
+Simple Node.js Hello world app for OpsWorks
